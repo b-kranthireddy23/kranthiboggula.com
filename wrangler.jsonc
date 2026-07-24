@@ -1,4 +1,5 @@
 {
+  // Cloudflare Workers config — makes unknown URLs serve 404.html
   "name": "personal-website",
   "compatibility_date": "2026-07-23",
   "assets": {
